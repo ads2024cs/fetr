@@ -1,3 +1,7 @@
+on:
+  workflow_dispatch:  # permite executar manualmente
+
+
 name: Flutter Build 
 
 on:
